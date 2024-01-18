@@ -1,3 +1,3 @@
 # My Project
 
-Welcome to my project! I have Created a Travel Landing Page Website using Html and CSS.
+Welcome to my project! I have developed a Travel Landing Page Website using Html and CSS.
